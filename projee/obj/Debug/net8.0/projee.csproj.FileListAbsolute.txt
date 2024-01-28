@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\projee\bin\Debug\net8.0\projee.exe
+C:\Users\lenovo\source\repos\projee\bin\Debug\net8.0\projee.deps.json
+C:\Users\lenovo\source\repos\projee\bin\Debug\net8.0\projee.runtimeconfig.json
+C:\Users\lenovo\source\repos\projee\bin\Debug\net8.0\projee.dll
+C:\Users\lenovo\source\repos\projee\bin\Debug\net8.0\projee.pdb
+C:\Users\lenovo\source\repos\projee\obj\Debug\net8.0\projee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\projee\obj\Debug\net8.0\projee.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\projee\obj\Debug\net8.0\projee.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\projee\obj\Debug\net8.0\projee.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\projee\obj\Debug\net8.0\projee.dll
+C:\Users\lenovo\source\repos\projee\obj\Debug\net8.0\refint\projee.dll
+C:\Users\lenovo\source\repos\projee\obj\Debug\net8.0\projee.pdb
+C:\Users\lenovo\source\repos\projee\obj\Debug\net8.0\projee.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\projee\obj\Debug\net8.0\ref\projee.dll
